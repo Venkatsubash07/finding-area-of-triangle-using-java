@@ -1,0 +1,6 @@
+  //calculating the area of triangle using java
+        int height=30;
+        int base=10;
+        int area;
+        area=1/2*base*height;
+        System.out.println(area);
